@@ -9,7 +9,8 @@
           <h1 id="ledState" class="mt-3"></h1>
         </div>
       </div>
-      <p class="fs-1">Latihan koneksi antara <code>NodeMCU ESP8266</code> dengan REST Api Laravel sebagai server </p>
+      <p class="fs-1">Latihan koneksi antara <code>NodeMCU ESP8266</code> dengan RESTFull Api Laravel sebagai server
+      </p>
       <span class="m-0 p-0">Halaman ini diakses dari <code>route.php</code></span>
       </p>
       <x-penjelasan></x-penjelasan>
