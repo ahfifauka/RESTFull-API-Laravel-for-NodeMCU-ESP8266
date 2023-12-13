@@ -69,7 +69,7 @@ function getState() {
 </pre>
               </div>
               <div class="col-6">
-                <h5 class="text-white">LedController Method getState()</h5>
+                <h5 class="text-white">LedController Method <code>getState()</code></h5>
                 <pre class="text-white">
 <code>
     public function getState()
